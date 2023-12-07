@@ -4,7 +4,7 @@ provider "aws" {
     secret_key = "ZaoSvUsjp8gXMtkMmKMbxRwn7++zqpHKz+xmZH/V"
   
 }
-variable "vpc-block" {}
+ variable "vpc-block" {}
  variable "env-variable" {}
  variable "availability_zone" {}
  variable "ami-id" {}
